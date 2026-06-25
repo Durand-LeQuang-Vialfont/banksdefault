@@ -2,7 +2,7 @@
 
 This Repository [STILL UNDER CONSTRUCTION] aims at presenting ML methods for classification of default events, using synthetic data for public accessible training and evaluation.
 
-It follows Durand, Le Quang and Vialfont (2023).
+It follows Durand, P., Le Quang, G., & Vialfont, A. (2026). To fail or not to fail? Disentangling capital and liquidity effects on US banks default. Applied Economics, 1–16. [https://doi.org/10.1080/00036846.2026.2669656](https://doi.org/10.1080/00036846.2026.2669656)
 
 # Getting Started
 
